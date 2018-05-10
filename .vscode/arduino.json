@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:mega",
+    "configuration": "cpu=atmega2560",
+    "port": "COM4",
+    "sketch": "Lessons\\Lesson 4 Analog Temperature Sensor\\analogTempSensor.ino"
+}
