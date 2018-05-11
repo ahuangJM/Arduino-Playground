@@ -2,5 +2,5 @@
     "board": "arduino:avr:mega",
     "configuration": "cpu=atmega2560",
     "port": "COM4",
-    "sketch": "Lessons\\Lesson 4 Analog Temperature Sensor\\analogTempSensor.ino"
+    "sketch": "Lessons\\Temperature Sensors\\Lesson 5 Temperature Detection by Thermistor\\thermistorTempDectect.ino"
 }
