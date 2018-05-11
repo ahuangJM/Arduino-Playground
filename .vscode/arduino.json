@@ -2,5 +2,5 @@
     "board": "arduino:avr:mega",
     "configuration": "cpu=atmega2560",
     "port": "COM4",
-    "sketch": "Lessons\\Temperature Sensors\\Lesson 5 Temperature Detection by Thermistor\\thermistorTempDectect.ino"
+    "sketch": "Lessons\\Lesson 7 Barometer\\Barometer.ino"
 }
